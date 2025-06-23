@@ -9,16 +9,26 @@
 ## Table of Contents
 
   <a name="project-overview"></a>
-- [Project Overview](#project-overview)  
-- [Objectives](#objectives)  
-- [Data Source](#data-source)  
-- [Technologies Used](#technologies-used)  
-- [EDA Summary](#eda-summary)  
-- [Power BI Dashboard](#power-bi-dashboard)  
-- [How to Use](#how-to-use)  
-- [Key Insights](#key-insights)  
-- [Conclusion](#conclusion)  
-- [Screenshots](#screenshots)  
+- [Project Overview](#project-overview)
+  <a name="objectives"></a>
+- [Objectives](#objectives)
+  <a name="data-source"></a> 
+- [Data Source](#data-source)
+  <a name="technologies-used"></a>
+- [Technologies Used](#technologies-used)
+  <a name="eda-summary"></a>
+- [EDA Summary](#eda-summary)
+  <a name="eda-summary"></a>
+- [Power BI Dashboard](#power-bi-dashboard)
+  <a name="how-to-use"></a>
+- [How to Use](#how-to-use)
+  <a name="key-insights"></a>
+- [Key Insights](#key-insights)
+  <a name="conclusion"></a>
+- [Conclusion](#conclusion)
+  <a name="screenshots"></a>
+- [Screenshots](#screenshots)
+  <a name="contact"></a>
 - [Contact](#contact)  
 
 
