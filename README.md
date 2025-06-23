@@ -114,7 +114,7 @@ This project showcases end-to-end data analysis and dashboarding for a real-worl
 
 | EDA Plot Example | Power BI Dashboard |
 |------------------|---------------------|
-| ![EDA](https://github.com/Eklovya195/Netflix_Dashboard/tree/main/images/EDA_images) | ![Dashboard]([images/dashboard.png](https://github.com/Eklovya195/Netflix_Dashboard/tree/main/images)) |
+| ![EDA](https://github.com/Eklovya195/Netflix_Dashboard/tree/main/images/EDA_images) | ![Dashboard](https://github.com/Eklovya195/Netflix_Dashboard/tree/main/images) |
 
 > *(Add actual screenshots to the `images/` folder and update the file paths above)*
 
@@ -124,7 +124,6 @@ This project showcases end-to-end data analysis and dashboarding for a real-worl
 
 Feel free to connect with me for any questions or feedback!  
 📧 **Email**: (eklovyasharma2004@gmail.com)  
-🔗 **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/eklovya-sharma-b7577222a)  
 🐙 **GitHub**: [@Eklovya195](https://github.com/Eklovya195)
 
 ---
