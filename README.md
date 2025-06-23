@@ -82,8 +82,7 @@ The Power BI dashboard offers a user-friendly interface to interact with:
 - Duration analysis  
 - Rating-wise content breakdown  
 
-📌 **Dashboard file**: `Netflix_Dashboard.pbix` (available in repo)  
-💡 *(If too large, host the `.pbix` on Google Drive/OneDrive and link it here)*  
+📌 **Dashboard file**: `Netflix_Dashboard.pbix` (available in repo)   
 
 ---
 
@@ -115,9 +114,6 @@ This project showcases end-to-end data analysis and dashboarding for a real-worl
 | EDA Plot Example | Power BI Dashboard |
 |------------------|---------------------|
 | ![EDA](https://github.com/Eklovya195/Netflix_Dashboard/tree/main/images/EDA_images) | ![Dashboard](https://github.com/Eklovya195/Netflix_Dashboard/tree/main/images) |
-
-> *(Add actual screenshots to the `images/` folder and update the file paths above)*
-
 ---
 
 ## 📬 Contact
