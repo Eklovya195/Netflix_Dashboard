@@ -10,14 +10,19 @@
 
   <a name="project-overview"></a>
 - [Project Overview](#project-overview)
+  
   <a name="objectives"></a>
 - [Objectives](#objectives)
+  
   <a name="data-source"></a> 
 - [Data Source](#data-source)
+
   <a name="technologies-used"></a>
 - [Technologies Used](#technologies-used)
+  
   <a name="eda-summary"></a>
 - [EDA Summary](#eda-summary)
+  
   <a name="eda-summary"></a>
 - [Power BI Dashboard](#power-bi-dashboard)
   <a name="how-to-use"></a>
