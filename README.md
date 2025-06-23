@@ -1,18 +1,20 @@
-# 🎮 Netflix Dashboard Project
-🔍 Exploratory Data Analysis + Dashboard Visualization
+# 🎮 Netflix Dashboard Project  
+🔍 Exploratory Data Analysis + Dashboard Visualization  
+
+---
 
 ## 📌 Table of Contents
-- [📁 Project Overview](#project-overview)
-- [🎯 Objectives](#objectives)
-- [📂 Data Source](#data-source)
-- [🛠 Technologies Used](#technologies-used)
-- [📊 EDA Summary](#eda-summary)
-- [📈 Power BI Dashboard](#power-bi-dashboard)
-- [▶️ How to Use](#how-to-use)
-- [📌 Key Insights](#key-insights)
-- [✅ Conclusion](#️conclusion)
-- [🖼 Screenshots](#screenshots)
-- [📬 Contact](#contact)
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Data Source](#data-source)
+- [Technologies Used](#technologies-used)
+- [EDA Summary](#eda-summary)
+- [Power BI Dashboard](#power-bi-dashboard)
+- [How to Use](#how-to-use)
+- [Key Insights](#key-insights)
+- [Conclusion](#conclusion)
+- [Screenshots](#screenshots)
+- [Contact](#contact)
 
 ---
 
@@ -22,15 +24,15 @@ This project explores the Netflix dataset to uncover patterns and trends in cont
 ---
 
 ## 🎯 Objectives
-- Perform data cleaning and preprocessing.
-- Explore trends in Netflix content: genres, countries, release years, and more.
-- Create visualizations to answer business-relevant questions.
-- Build an interactive Power BI dashboard for end users.
+- Perform data cleaning and preprocessing.  
+- Explore trends in Netflix content: genres, countries, release years, and more.  
+- Create visualizations to answer business-relevant questions.  
+- Build an interactive Power BI dashboard for end users.  
 
 ---
 
 ## 📂 Data Source
-The dataset is sourced from [Kaggle - Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows) and contains details like:
+The dataset is sourced from [Kaggle - Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows) and contains details like:  
 - Title  
 - Director  
 - Cast  
@@ -40,48 +42,48 @@ The dataset is sourced from [Kaggle - Netflix Movies and TV Shows](https://www.k
 - Rating  
 - Duration  
 - Genre (Listed_in)  
-- Type (Movie or TV Show)
+- Type (Movie or TV Show)  
 
 ---
 
 ## 🛠 Technologies Used
 
-**Python (Jupyter Notebook)**
+**Python (Jupyter Notebook)**  
 - Pandas  
 - NumPy  
 - Matplotlib  
 - Seaborn  
 
-**Power BI**
+**Power BI**  
 - Dashboard creation  
 - Data modeling  
-- DAX (basic)
+- DAX (basic)  
 
-**Others**
+**Other Tools**  
 - Git & GitHub  
 
 ---
 
 ## 📊 EDA Summary
-- Handled missing values and inconsistent data types.
-- Extracted year from "date_added".
+- Handled missing values and inconsistent data types.  
+- Extracted year from `date_added`.  
 - Analyzed:
   - Content trends over time  
   - Top contributing countries  
   - Most frequent genres  
-  - Distribution of TV Shows vs Movies
+  - Distribution of TV Shows vs Movies  
 
 ---
 
 ## 📈 Power BI Dashboard
 The Power BI dashboard offers a user-friendly interface to interact with:
-- Content distribution by type, genre, country  
+- Content distribution by type, genre, and country  
 - Yearly trends in content addition  
 - Duration analysis  
 - Rating-wise content breakdown  
 
 📌 **Dashboard file**: `Netflix_Dashboard.pbix` (available in repo)  
-💡 *(If large, consider hosting `.pbix` on Google Drive/OneDrive and adding a link)*
+💡 *(If too large, host the `.pbix` on Google Drive/OneDrive and link it here)*  
 
 ---
 
