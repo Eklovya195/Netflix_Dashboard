@@ -6,17 +6,18 @@
 
 ### 📌 Table of Contents
 
-* [Project Overview](#Project-Overview)
-* [Objectives](#Objectives)
-* [Data Source](#Data-Source)
-* [Technologies Used](#Technologies-Used)
-* [EDA Summary](#EDA-Summary)
-* [Power BI Dashboard](#Power-Bi-Dashboard)
-* [How to Use](#How-to-Use)
-* [Key Insights](#Key-Insights)
-* [Conclusion](#Conclusion)
-* [Screenshots](#Screenshots)
-* [Contact](#Contact)
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Data Source](#data-source)
+- [Technologies Used](#technologies-used)
+- [EDA Summary](#eda-summary)
+- [Power BI Dashboard](#power-bi-dashboard)
+- [How to Use](#how-to-use)
+- [Key Insights](#key-insights)
+- [Conclusion](#conclusion)
+- [Screenshots](#screenshots)
+- [Contact](#contact)
+
 
 ---
 
