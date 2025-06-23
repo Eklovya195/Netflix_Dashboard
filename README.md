@@ -4,17 +4,17 @@
 ---
 
 ## 📌 Table of Contents
-- [Project Overview](#project-overview)
-- [Objectives](#objectives)
-- [Data Source](#data-source)
-- [Technologies Used](#technologies-used)
-- [EDA Summary](#eda-summary)
-- [Power BI Dashboard](#power-bi-dashboard)
-- [How to Use](#how-to-use)
-- [Key Insights](#key-insights)
-- [Conclusion](#conclusion)
-- [Screenshots](#screenshots)
-- [Contact](#contact)
+- [Project Overview]
+- [Objectives]
+- [Data Source]
+- [Technologies Used]
+- [EDA Summary]
+- [Power BI Dashboard]
+- [How to Use]
+- [Key Insights]
+- [Conclusion]
+- [Screenshots]
+- [Contact]
 
 ---
 
@@ -114,7 +114,7 @@ This project showcases end-to-end data analysis and dashboarding for a real-worl
 
 | EDA Plot Example | Power BI Dashboard |
 |------------------|---------------------|
-| ![EDA](images/eda_plot.png) | ![Dashboard](images/dashboard.png) |
+| ![EDA](https://github.com/Eklovya195/Netflix_Dashboard/tree/main/images/EDA_images) | ![Dashboard]([images/dashboard.png](https://github.com/Eklovya195/Netflix_Dashboard/tree/main/images)) |
 
 > *(Add actual screenshots to the `images/` folder and update the file paths above)*
 
@@ -123,8 +123,8 @@ This project showcases end-to-end data analysis and dashboarding for a real-worl
 ## 📬 Contact
 
 Feel free to connect with me for any questions or feedback!  
-📧 **Email**: your.email@example.com  
-🔗 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
+📧 **Email**: (eklovyasharma2004@gmail.com)  
+🔗 **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/eklovya-sharma-b7577222a)  
 🐙 **GitHub**: [@Eklovya195](https://github.com/Eklovya195)
 
 ---
