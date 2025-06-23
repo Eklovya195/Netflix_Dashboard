@@ -110,8 +110,7 @@ The Power BI dashboard offers a user-friendly interface to interact with:
 * Yearly trends in content addition
 * Duration analysis
 * Rating-wise content breakdown
-* TV Shows with Most Seasons
-
+* 
 📌 **Dashboard file:** `Netflix_Dashboard.pbix` (available in repo)
 
 > *(If large, consider hosting `.pbix` on Google Drive/OneDrive and adding link)*
@@ -159,9 +158,6 @@ This project showcases end-to-end data analysis and dashboarding for a real-worl
 
 **Eklovya Sharma**
 📧 [eklovyasharma2004@gmail.com]
-🔗 [LinkedIn](www.linkedin.com/in/
-eklovya-sharma-b7577222a
-)
 
 ---
 
